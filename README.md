@@ -1,12 +1,12 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="twitter.com/Irakliiee">
+<a href="https://www.twitter.com/Irakliiee">
   <img align="left" alt="N1tch's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="github.com/N1tchvar">
+<a href="https://www.github.com/N1tchvar">
   <img align="left" alt="N1tch's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="instagram.com/randomdesignsbyn1tch/">
+<a href="https://www.instagram.com/randomdesignsbyn1tch/">
   <img align="left" alt="N1tch's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
