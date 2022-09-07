@@ -13,7 +13,7 @@
 <br>
 
 <br>I'm Irakli Chaxvashvili, 16 years old, who loves coding and designing things.
-- 🔭 I'm Currently working on myself (improving myself day to day)
+- 🔭 I'm Currently working on myself (improving myself day by day)
 - 🌱 I’m currently learning Front-end Development 🚀.
 - 👯 How to reach me: chaxva32@gmail.com | **[Twitter](https://twitter.com/Irakliiee)** | **[Instagram](https://www.instagram.com/randomdesignsbyn1tch/)** | 
 - 📫 Also I have **[portoflio](https://nitchjpg.ga/)** where I have included some projects and facts about me 😄
