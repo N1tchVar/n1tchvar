@@ -1,50 +1,24 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<h1 class="center"> Sup I'm Irakli aka @N1tch <img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<a href="https://www.twitter.com/Irakliiee">
-  <img align="left" alt="N1tch's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.github.com/N1tchvar">
-  <img align="left" alt="N1tch's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/randomdesignsbyn1tch/">
-  <img align="left" alt="N1tch's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
+<p>
+    I'm 16 yo Web-Developer, who loves to create 3D arts, poster designs, georgian custom typography. I enjoy so much reading books espicially phylosophy, sci-fi and history. I'm very big fan of SCI-FI.<br>
+  In my free time i mainly learning more and more skills, reading or designing SCI-FI PROPS. <br>
+  This is how you can me find on discord: Iraklie#3412
+</p>
 <br>
 
-<br>I'm Irakli Chaxvashvili, 16 years old, who loves coding and designing things.
-- 🔭 I'm Currently working on myself (improving myself day by day)
-- 🌱 I’m currently learning Front-end Development 🚀.
-- 👯 How to reach me: chaxva32@gmail.com | **[Twitter](https://twitter.com/Irakliiee)** | **[Instagram](https://www.instagram.com/randomdesignsbyn1tch/)** | 
-- 📫 Also I have **[portoflio](https://nitchjpg.ga/)** where I have included some projects and facts about me 😄
-- 💬 Ask me about anything! I am happy to help and guide you.
+<h1>💡 Skills:</h1>
 
-![](https://komarev.com/ghpvc/?username=N1tchVar&style=flat&color=FC2F03)
- 
-### What I know
+![HTML](https://img.shields.io/badge/-HTML-9900e1?style=flat&logo=HTML5);
+![CSS](https://img.shields.io/badge/-CSS3-9900e1?style=flat&logo=css3);
+![JS](https://img.shields.io/badge/-Javascript-9900e1?style=flat&logo=javascript);
+![SCCS](https://img.shields.io/badge/-SASS-9900e1?style=flat&logo=SASS);
+![TAILWINDCSS](https://img.shields.io/badge/-TAILWIND-9900e1?style=flat&logo=tailwindcss);
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-9900e1?style=flat&logo=bootstrap);
+![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-9900e1?style=flat&logo=TYPESCRIPT);
+![FIGMA](https://img.shields.io/badge/-FIGMA-9900e1?style=flat&logo=figma);
+![ADOBEXD](https://img.shields.io/badge/-ADOBEXD-9900e1?style=flat&logo=Adobexd);
 
-<div style="display: inline-block">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-E44C30?style=for-the-badge&logo=html5&logoColor=white">
-  <img scr="https://img.shields.io/badge/Javascript-ECE505?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-03F1FC?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-</div>
-
-### Going To Learn
-  <div>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB`">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  </div>
-
-<br>
 <div align="center">
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/htYVWgKg/e34e2e40a81c9b83d28122f98b5e0eaa.gif' border='0' alt='e34e2e40a81c9b83d28122f98b5e0eaa'/></a>
+<a href='https://postimg.cc/ns7h65Wn' target='_blank'><img src='https://i.postimg.cc/ns7h65Wn/b5fb2bb4d305c836071d37c3af4fea55.gif' border='0' alt='b5fb2bb4d305c836071d37c3af4fea55'/></a>
 </div>
