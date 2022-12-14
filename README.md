@@ -20,5 +20,5 @@
 ![ADOBEXD](https://img.shields.io/badge/-ADOBEXD-9900e1?style=flat&logo=Adobexd)
 
 <div align="center">
-<a href='https://postimg.cc/ns7h65Wn' target='_blank'><img src='https://i.postimg.cc/ns7h65Wn/b5fb2bb4d305c836071d37c3af4fea55.gif' border='0' alt='b5fb2bb4d305c836071d37c3af4fea55'/></a>
+<a href='https://postimg.cc/ns7h65Wn' target='_blank'><img style="width: 100%;" src='https://i.postimg.cc/ns7h65Wn/b5fb2bb4d305c836071d37c3af4fea55.gif' border='0' alt='b5fb2bb4d305c836071d37c3af4fea55'/></a>
 </div>
