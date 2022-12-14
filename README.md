@@ -9,15 +9,15 @@
 
 <h1>💡 Skills:</h1>
 
-![HTML](https://img.shields.io/badge/-HTML-9900e1?style=flat&logo=HTML5);
-![CSS](https://img.shields.io/badge/-CSS3-9900e1?style=flat&logo=css3);
-![JS](https://img.shields.io/badge/-Javascript-9900e1?style=flat&logo=javascript);
-![SCCS](https://img.shields.io/badge/-SASS-9900e1?style=flat&logo=SASS);
-![TAILWINDCSS](https://img.shields.io/badge/-TAILWIND-9900e1?style=flat&logo=tailwindcss);
-![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-9900e1?style=flat&logo=bootstrap);
-![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-9900e1?style=flat&logo=TYPESCRIPT);
-![FIGMA](https://img.shields.io/badge/-FIGMA-9900e1?style=flat&logo=figma);
-![ADOBEXD](https://img.shields.io/badge/-ADOBEXD-9900e1?style=flat&logo=Adobexd);
+![HTML](https://img.shields.io/badge/-HTML-9900e1?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-9900e1?style=flat&logo=css3)
+![JS](https://img.shields.io/badge/-Javascript-9900e1?style=flat&logo=javascript)
+![SCCS](https://img.shields.io/badge/-SASS-9900e1?style=flat&logo=SASS)
+![TAILWINDCSS](https://img.shields.io/badge/-TAILWIND-9900e1?style=flat&logo=tailwindcss)
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-9900e1?style=flat&logo=bootstrap)
+![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-9900e1?style=flat&logo=TYPESCRIPT)
+![FIGMA](https://img.shields.io/badge/-FIGMA-9900e1?style=flat&logo=figma)
+![ADOBEXD](https://img.shields.io/badge/-ADOBEXD-9900e1?style=flat&logo=Adobexd)
 
 <div align="center">
 <a href='https://postimg.cc/ns7h65Wn' target='_blank'><img src='https://i.postimg.cc/ns7h65Wn/b5fb2bb4d305c836071d37c3af4fea55.gif' border='0' alt='b5fb2bb4d305c836071d37c3af4fea55'/></a>
